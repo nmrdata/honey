@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.6.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Stark
+$$ 2021-09-14 16:48:06.106 +0300  Stark@DESKTOP-2FJTEDE
+$$ D:/TopSpinSpectra/DG_620_bbo/11/pdata/1/assocs
+$$ process D:\TopSpin3_6\prog\mod\dataserver.exe
+##$MULTDISP= <D:\TopSpinSpectra\DG_576_bbo\11\pdata\1>
+##END=

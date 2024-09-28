@@ -1,0 +1,41 @@
+
+Current Data Parameters
+NAME         DG_557_bbo              
+EXPNO                11              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20191222              
+Time              22.19 h            
+INSTRUM           spect              
+PROBHD   Z847801_0047 (              
+PULPROG       noesypr1d              
+TD                65536              
+SOLVENT         H2O+D2O              
+NS                  256              
+DS                   16              
+SWH            6361.323 Hz           
+FIDRES         0.194132 Hz           
+AQ            5.1511297 sec          
+RG                 11.3              
+DW               78.600 usec         
+DE                 7.60 usec         
+TE                300.0 K            
+D1           2.00000000 sec          
+D8           0.01000000 sec          
+D12          0.00002000 sec          
+TD0                   1              
+SFO1        600.0128243 MHz          
+NUC1                 1H              
+P1                11.50 usec         
+PLW1        20.00000000 W            
+PLW9         0.00000316 W            
+
+F2 - Processing parameters
+SI               131072              
+SF          600.0100033 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              

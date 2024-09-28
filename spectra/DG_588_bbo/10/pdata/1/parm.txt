@@ -1,0 +1,38 @@
+
+Current Data Parameters
+NAME         DG_588_bbo              
+EXPNO                10              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20200314              
+Time               6.23 h            
+INSTRUM           spect              
+PROBHD   Z847801_0047 (              
+PULPROG            zg30              
+TD                32768              
+SOLVENT         H2O+D2O              
+NS                    1              
+DS                    0              
+SWH            9615.385 Hz           
+FIDRES         0.586877 Hz           
+AQ            1.7039360 sec          
+RG                  3.2              
+DW               52.000 usec         
+DE                13.95 usec         
+TE                300.1 K            
+D1           1.00000000 sec          
+TD0                   1              
+SFO1        600.0128243 MHz          
+NUC1                 1H              
+P1                10.85 usec         
+PLW1        20.00000000 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          600.0100036 MHz          
+WDW                  EM              
+SSB      0              
+LB       0 Hz           
+GB       0              
+PC                 1.00              

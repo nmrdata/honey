@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= sds99bg
+$$ 2020-03-14 06:17:28.129 +0200  sds99bg@av600-2
+$$ /opt/topspin3.2pl6/data/sds/nmr/DG_588_bbo/10/pdata/1/outd
+$$ process /opt/topspin3.5pl6/prog/mod/xwish3
+##$CURPLOT= <printer-at118>
+##$CURPRIN= <integrals.txt>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H+pp_niki_bw3.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

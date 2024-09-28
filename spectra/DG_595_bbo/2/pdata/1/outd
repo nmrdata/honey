@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= yavor
+$$ 2020-07-14 10:34:21.168 +0300  yavor@av600.orgchm.bas.bg
+$$ /opt/topspin3.2pl6/data/sds/nmr/DG_595_bbo/2/pdata/1/outd
+$$ process /opt/topspin3.6.2/prog/mod/edparproc
+##$CURPLOT= <printer-at118>
+##$CURPRIN= <$noprint>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H+pp_niki_bw3.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

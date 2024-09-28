@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= sds99bg
+$$ /opt/topspin3.2pl6/data/sds/nmr/DG_557_bbo/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-12-22 21:45:46.527 +0200>,<sds99bg>,<av600-2>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2019-12-22 21:45:42.030 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       0A 05 5E F7 61 01 F9 A4 40 36 5F E0 4D 00 E8 6A
+       data hash MD5: 32K
+       D2 F3 D8 F2 D6 6A ED 53 AC 38 6D 9F 61 E2 C5 C6>)
+(   2,<2019-12-22 21:45:46.560 +0200>,<sds99bg>,<av600-2>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       ICON-NMR User ID: sds
+       data hash MD5: 32K
+       D2 F3 D8 F2 D6 6A ED 53 AC 38 6D 9F 61 E2 C5 C6>)
+(   3,<2019-12-22 21:45:46.987 +0200>,<sds99bg>,<av600-2>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       ef LB = 0 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       76 EF 42 01 1A 6A 87 D0 5D 4C AD 09 73 E7 4E AA>)
+(   4,<2019-12-22 21:45:49.786 +0200>,<sds99bg>,<av600-2>,<proc1d>,<TopSpin 3.5.6>,
+      <apk0 
+       data hash MD5: 64K
+       76 91 1A 3D 76 F8 CC 4D 18 7D 9C B9 87 00 BD 8A>)
+(   5,<2019-12-22 21:45:49.843 +0200>,<sds99bg>,<av600-2>,<proc1d>,<TopSpin 3.5.6>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       A7 11 B4 09 BB 0F AE BC 2E DA 51 15 40 C6 66 82>)
+##END=
+
+$$ hash MD5
+$$ 73 A2 CE 80 87 0D C1 FD 0D C0 E5 23 CE 6B A7 33

@@ -1,0 +1,1231 @@
+{
+  "version": 4,
+  "data": {
+    "source": {
+      "entries": [
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/email_DG_553_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/email_DG_553_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_553_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/email_DG_554_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/assocs"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/email_DG_554_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_554_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/1/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_556_bbo/2/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/email_DG_557_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/email_DG_557_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_557_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/email_DG_576_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/assocs"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/email_DG_576_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_576_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/email_DG_587_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/assocs"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/email_DG_587_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_587_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/email_DG_588_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/email_DG_588_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_588_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/1/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_595_bbo/2/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/email_DG_598_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/assocs"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/email_DG_598_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_598_bbo/11/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/email_DG_620_bbo_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/10/acqus"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/assocs"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/email_DG_620_bbo_11_1.pdf"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/peaklist.xml"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/peakrng"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/peaks"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/thumb.png"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/DG_620_bbo/11/acqus"
+        }
+      ]
+    },
+    "spectra": [
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_553_bbo/10/pdata/1/1i",
+            "spectra/DG_553_bbo/10/pdata/1/1r",
+            "spectra/DG_553_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_553_bbo/10/pdata/1/email_DG_553_bbo_10_1.pdf",
+            "spectra/DG_553_bbo/10/pdata/1/intrng",
+            "spectra/DG_553_bbo/10/pdata/1/outd",
+            "spectra/DG_553_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_553_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_553_bbo/10/pdata/1/peakrng",
+            "spectra/DG_553_bbo/10/pdata/1/peaks",
+            "spectra/DG_553_bbo/10/pdata/1/proc",
+            "spectra/DG_553_bbo/10/pdata/1/procs",
+            "spectra/DG_553_bbo/10/pdata/1/title",
+            "spectra/DG_553_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_553_bbo/11/pdata/1/1i",
+            "spectra/DG_553_bbo/11/pdata/1/1r",
+            "spectra/DG_553_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_553_bbo/11/pdata/1/email_DG_553_bbo_11_1.pdf",
+            "spectra/DG_553_bbo/11/pdata/1/intrng",
+            "spectra/DG_553_bbo/11/pdata/1/outd",
+            "spectra/DG_553_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_553_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_553_bbo/11/pdata/1/peakrng",
+            "spectra/DG_553_bbo/11/pdata/1/peaks",
+            "spectra/DG_553_bbo/11/pdata/1/proc",
+            "spectra/DG_553_bbo/11/pdata/1/procs",
+            "spectra/DG_553_bbo/11/pdata/1/title",
+            "spectra/DG_553_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_554_bbo/10/pdata/1/1i",
+            "spectra/DG_554_bbo/10/pdata/1/1r",
+            "spectra/DG_554_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_554_bbo/10/pdata/1/email_DG_554_bbo_10_1.pdf",
+            "spectra/DG_554_bbo/10/pdata/1/intrng",
+            "spectra/DG_554_bbo/10/pdata/1/outd",
+            "spectra/DG_554_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_554_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_554_bbo/10/pdata/1/peakrng",
+            "spectra/DG_554_bbo/10/pdata/1/peaks",
+            "spectra/DG_554_bbo/10/pdata/1/proc",
+            "spectra/DG_554_bbo/10/pdata/1/procs",
+            "spectra/DG_554_bbo/10/pdata/1/title",
+            "spectra/DG_554_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_554_bbo/11/pdata/1/1i",
+            "spectra/DG_554_bbo/11/pdata/1/1r",
+            "spectra/DG_554_bbo/11/pdata/1/assocs",
+            "spectra/DG_554_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_554_bbo/11/pdata/1/email_DG_554_bbo_11_1.pdf",
+            "spectra/DG_554_bbo/11/pdata/1/intrng",
+            "spectra/DG_554_bbo/11/pdata/1/outd",
+            "spectra/DG_554_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_554_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_554_bbo/11/pdata/1/peakrng",
+            "spectra/DG_554_bbo/11/pdata/1/peaks",
+            "spectra/DG_554_bbo/11/pdata/1/proc",
+            "spectra/DG_554_bbo/11/pdata/1/procs",
+            "spectra/DG_554_bbo/11/pdata/1/title",
+            "spectra/DG_554_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_556_bbo/1/pdata/1/1i",
+            "spectra/DG_556_bbo/1/pdata/1/1r",
+            "spectra/DG_556_bbo/1/pdata/1/auditp.txt",
+            "spectra/DG_556_bbo/1/pdata/1/outd",
+            "spectra/DG_556_bbo/1/pdata/1/proc",
+            "spectra/DG_556_bbo/1/pdata/1/procs",
+            "spectra/DG_556_bbo/1/pdata/1/thumb.png",
+            "spectra/DG_556_bbo/1/pdata/1/title",
+            "spectra/DG_556_bbo/1/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_556_bbo/2/pdata/1/1i",
+            "spectra/DG_556_bbo/2/pdata/1/1r",
+            "spectra/DG_556_bbo/2/pdata/1/auditp.txt",
+            "spectra/DG_556_bbo/2/pdata/1/outd",
+            "spectra/DG_556_bbo/2/pdata/1/proc",
+            "spectra/DG_556_bbo/2/pdata/1/procs",
+            "spectra/DG_556_bbo/2/pdata/1/thumb.png",
+            "spectra/DG_556_bbo/2/pdata/1/title",
+            "spectra/DG_556_bbo/2/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_557_bbo/10/pdata/1/1i",
+            "spectra/DG_557_bbo/10/pdata/1/1r",
+            "spectra/DG_557_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_557_bbo/10/pdata/1/email_DG_557_bbo_10_1.pdf",
+            "spectra/DG_557_bbo/10/pdata/1/intrng",
+            "spectra/DG_557_bbo/10/pdata/1/outd",
+            "spectra/DG_557_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_557_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_557_bbo/10/pdata/1/peakrng",
+            "spectra/DG_557_bbo/10/pdata/1/peaks",
+            "spectra/DG_557_bbo/10/pdata/1/proc",
+            "spectra/DG_557_bbo/10/pdata/1/procs",
+            "spectra/DG_557_bbo/10/pdata/1/thumb.png",
+            "spectra/DG_557_bbo/10/pdata/1/title",
+            "spectra/DG_557_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_557_bbo/11/pdata/1/1i",
+            "spectra/DG_557_bbo/11/pdata/1/1r",
+            "spectra/DG_557_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_557_bbo/11/pdata/1/email_DG_557_bbo_11_1.pdf",
+            "spectra/DG_557_bbo/11/pdata/1/intrng",
+            "spectra/DG_557_bbo/11/pdata/1/outd",
+            "spectra/DG_557_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_557_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_557_bbo/11/pdata/1/peakrng",
+            "spectra/DG_557_bbo/11/pdata/1/peaks",
+            "spectra/DG_557_bbo/11/pdata/1/proc",
+            "spectra/DG_557_bbo/11/pdata/1/procs",
+            "spectra/DG_557_bbo/11/pdata/1/thumb.png",
+            "spectra/DG_557_bbo/11/pdata/1/title",
+            "spectra/DG_557_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_576_bbo/10/pdata/1/1i",
+            "spectra/DG_576_bbo/10/pdata/1/1r",
+            "spectra/DG_576_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_576_bbo/10/pdata/1/email_DG_576_bbo_10_1.pdf",
+            "spectra/DG_576_bbo/10/pdata/1/intrng",
+            "spectra/DG_576_bbo/10/pdata/1/outd",
+            "spectra/DG_576_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_576_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_576_bbo/10/pdata/1/peakrng",
+            "spectra/DG_576_bbo/10/pdata/1/peaks",
+            "spectra/DG_576_bbo/10/pdata/1/proc",
+            "spectra/DG_576_bbo/10/pdata/1/procs",
+            "spectra/DG_576_bbo/10/pdata/1/title",
+            "spectra/DG_576_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_576_bbo/11/pdata/1/1i",
+            "spectra/DG_576_bbo/11/pdata/1/1r",
+            "spectra/DG_576_bbo/11/pdata/1/assocs",
+            "spectra/DG_576_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_576_bbo/11/pdata/1/email_DG_576_bbo_11_1.pdf",
+            "spectra/DG_576_bbo/11/pdata/1/intrng",
+            "spectra/DG_576_bbo/11/pdata/1/outd",
+            "spectra/DG_576_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_576_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_576_bbo/11/pdata/1/peakrng",
+            "spectra/DG_576_bbo/11/pdata/1/peaks",
+            "spectra/DG_576_bbo/11/pdata/1/proc",
+            "spectra/DG_576_bbo/11/pdata/1/procs",
+            "spectra/DG_576_bbo/11/pdata/1/thumb.png",
+            "spectra/DG_576_bbo/11/pdata/1/title",
+            "spectra/DG_576_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_587_bbo/10/pdata/1/1i",
+            "spectra/DG_587_bbo/10/pdata/1/1r",
+            "spectra/DG_587_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_587_bbo/10/pdata/1/email_DG_587_bbo_10_1.pdf",
+            "spectra/DG_587_bbo/10/pdata/1/intrng",
+            "spectra/DG_587_bbo/10/pdata/1/outd",
+            "spectra/DG_587_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_587_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_587_bbo/10/pdata/1/peakrng",
+            "spectra/DG_587_bbo/10/pdata/1/peaks",
+            "spectra/DG_587_bbo/10/pdata/1/proc",
+            "spectra/DG_587_bbo/10/pdata/1/procs",
+            "spectra/DG_587_bbo/10/pdata/1/title",
+            "spectra/DG_587_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_587_bbo/11/pdata/1/1i",
+            "spectra/DG_587_bbo/11/pdata/1/1r",
+            "spectra/DG_587_bbo/11/pdata/1/assocs",
+            "spectra/DG_587_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_587_bbo/11/pdata/1/email_DG_587_bbo_11_1.pdf",
+            "spectra/DG_587_bbo/11/pdata/1/intrng",
+            "spectra/DG_587_bbo/11/pdata/1/outd",
+            "spectra/DG_587_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_587_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_587_bbo/11/pdata/1/peakrng",
+            "spectra/DG_587_bbo/11/pdata/1/peaks",
+            "spectra/DG_587_bbo/11/pdata/1/proc",
+            "spectra/DG_587_bbo/11/pdata/1/procs",
+            "spectra/DG_587_bbo/11/pdata/1/thumb.png",
+            "spectra/DG_587_bbo/11/pdata/1/title",
+            "spectra/DG_587_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_588_bbo/10/pdata/1/1i",
+            "spectra/DG_588_bbo/10/pdata/1/1r",
+            "spectra/DG_588_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_588_bbo/10/pdata/1/email_DG_588_bbo_10_1.pdf",
+            "spectra/DG_588_bbo/10/pdata/1/intrng",
+            "spectra/DG_588_bbo/10/pdata/1/outd",
+            "spectra/DG_588_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_588_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_588_bbo/10/pdata/1/peakrng",
+            "spectra/DG_588_bbo/10/pdata/1/peaks",
+            "spectra/DG_588_bbo/10/pdata/1/proc",
+            "spectra/DG_588_bbo/10/pdata/1/procs",
+            "spectra/DG_588_bbo/10/pdata/1/title",
+            "spectra/DG_588_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_588_bbo/11/pdata/1/1i",
+            "spectra/DG_588_bbo/11/pdata/1/1r",
+            "spectra/DG_588_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_588_bbo/11/pdata/1/email_DG_588_bbo_11_1.pdf",
+            "spectra/DG_588_bbo/11/pdata/1/intrng",
+            "spectra/DG_588_bbo/11/pdata/1/outd",
+            "spectra/DG_588_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_588_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_588_bbo/11/pdata/1/peakrng",
+            "spectra/DG_588_bbo/11/pdata/1/peaks",
+            "spectra/DG_588_bbo/11/pdata/1/proc",
+            "spectra/DG_588_bbo/11/pdata/1/procs",
+            "spectra/DG_588_bbo/11/pdata/1/thumb.png",
+            "spectra/DG_588_bbo/11/pdata/1/title",
+            "spectra/DG_588_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_595_bbo/1/pdata/1/1i",
+            "spectra/DG_595_bbo/1/pdata/1/1r",
+            "spectra/DG_595_bbo/1/pdata/1/auditp.txt",
+            "spectra/DG_595_bbo/1/pdata/1/outd",
+            "spectra/DG_595_bbo/1/pdata/1/proc",
+            "spectra/DG_595_bbo/1/pdata/1/procs",
+            "spectra/DG_595_bbo/1/pdata/1/thumb.png",
+            "spectra/DG_595_bbo/1/pdata/1/title",
+            "spectra/DG_595_bbo/1/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_595_bbo/2/pdata/1/1i",
+            "spectra/DG_595_bbo/2/pdata/1/1r",
+            "spectra/DG_595_bbo/2/pdata/1/auditp.txt",
+            "spectra/DG_595_bbo/2/pdata/1/outd",
+            "spectra/DG_595_bbo/2/pdata/1/proc",
+            "spectra/DG_595_bbo/2/pdata/1/procs",
+            "spectra/DG_595_bbo/2/pdata/1/thumb.png",
+            "spectra/DG_595_bbo/2/pdata/1/title",
+            "spectra/DG_595_bbo/2/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_598_bbo/10/pdata/1/1i",
+            "spectra/DG_598_bbo/10/pdata/1/1r",
+            "spectra/DG_598_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_598_bbo/10/pdata/1/email_DG_598_bbo_10_1.pdf",
+            "spectra/DG_598_bbo/10/pdata/1/intrng",
+            "spectra/DG_598_bbo/10/pdata/1/outd",
+            "spectra/DG_598_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_598_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_598_bbo/10/pdata/1/peakrng",
+            "spectra/DG_598_bbo/10/pdata/1/peaks",
+            "spectra/DG_598_bbo/10/pdata/1/proc",
+            "spectra/DG_598_bbo/10/pdata/1/procs",
+            "spectra/DG_598_bbo/10/pdata/1/title",
+            "spectra/DG_598_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_598_bbo/11/pdata/1/1i",
+            "spectra/DG_598_bbo/11/pdata/1/1r",
+            "spectra/DG_598_bbo/11/pdata/1/assocs",
+            "spectra/DG_598_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_598_bbo/11/pdata/1/email_DG_598_bbo_11_1.pdf",
+            "spectra/DG_598_bbo/11/pdata/1/intrng",
+            "spectra/DG_598_bbo/11/pdata/1/outd",
+            "spectra/DG_598_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_598_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_598_bbo/11/pdata/1/peakrng",
+            "spectra/DG_598_bbo/11/pdata/1/peaks",
+            "spectra/DG_598_bbo/11/pdata/1/proc",
+            "spectra/DG_598_bbo/11/pdata/1/procs",
+            "spectra/DG_598_bbo/11/pdata/1/title",
+            "spectra/DG_598_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_620_bbo/10/pdata/1/1i",
+            "spectra/DG_620_bbo/10/pdata/1/1r",
+            "spectra/DG_620_bbo/10/pdata/1/auditp.txt",
+            "spectra/DG_620_bbo/10/pdata/1/email_DG_620_bbo_10_1.pdf",
+            "spectra/DG_620_bbo/10/pdata/1/intrng",
+            "spectra/DG_620_bbo/10/pdata/1/outd",
+            "spectra/DG_620_bbo/10/pdata/1/parm.txt",
+            "spectra/DG_620_bbo/10/pdata/1/peaklist.xml",
+            "spectra/DG_620_bbo/10/pdata/1/peakrng",
+            "spectra/DG_620_bbo/10/pdata/1/peaks",
+            "spectra/DG_620_bbo/10/pdata/1/proc",
+            "spectra/DG_620_bbo/10/pdata/1/procs",
+            "spectra/DG_620_bbo/10/pdata/1/title",
+            "spectra/DG_620_bbo/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/DG_620_bbo/11/pdata/1/1i",
+            "spectra/DG_620_bbo/11/pdata/1/1r",
+            "spectra/DG_620_bbo/11/pdata/1/assocs",
+            "spectra/DG_620_bbo/11/pdata/1/auditp.txt",
+            "spectra/DG_620_bbo/11/pdata/1/email_DG_620_bbo_11_1.pdf",
+            "spectra/DG_620_bbo/11/pdata/1/outd",
+            "spectra/DG_620_bbo/11/pdata/1/parm.txt",
+            "spectra/DG_620_bbo/11/pdata/1/peaklist.xml",
+            "spectra/DG_620_bbo/11/pdata/1/peakrng",
+            "spectra/DG_620_bbo/11/pdata/1/peaks",
+            "spectra/DG_620_bbo/11/pdata/1/proc",
+            "spectra/DG_620_bbo/11/pdata/1/procs",
+            "spectra/DG_620_bbo/11/pdata/1/thumb.png",
+            "spectra/DG_620_bbo/11/pdata/1/title",
+            "spectra/DG_620_bbo/11/acqus"
+          ]
+        },
+        "customInfo": {}
+      }
+    ]
+  }
+}

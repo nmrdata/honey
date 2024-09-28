@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= sds
+$$ /opt/topspin3.2pl6/data/dpg/nmr/DG_598_bbo/11/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-08-20 19:58:15.856 +0300>,<sds>,<av600.orgchm.bas.bg>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2020-08-20 19:25:36.856 +0300,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       8E 4A BA D4 53 B1 92 F1 E2 7C 04 E2 6D C2 61 CC
+       data hash MD5: 64K
+       3C 21 31 70 02 FC 8E 14 28 2E 28 AA A7 E1 7F 56>)
+(   2,<2020-08-20 19:58:15.887 +0300>,<sds>,<av600.orgchm.bas.bg>,<audit>,<TopSpin 3.6.2>,
+      <user comment:
+       ICON-NMR User ID: dpg
+       data hash MD5: 64K
+       3C 21 31 70 02 FC 8E 14 28 2E 28 AA A7 E1 7F 56>)
+##END=
+
+$$ hash MD5
+$$ D2 46 40 30 6D 88 F3 84 A2 12 4F 6A 18 34 09 8F
